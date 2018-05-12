@@ -1,10 +1,16 @@
 _repo: Historical-Record-of-the-Third-Or-the-King-s-Own-Regiment-of-Light-Dragoons-Containing-an-Acc__50421
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 50421-h/images/cover.jpg
 creator:
   author:
     agent_name: Cannon, Richard
     gutenberg_agent_id: '45414'
     url: http://www.gutenberg.org/2009/agents/45414
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50421#Historical-Record-of-the-Third-Or-the-King-s-Own-Regiment-of-Light-Dragoons-Containing-an-Acc_
 gutenberg_issued: '2015-11-10'
 gutenberg_type: Text
 identifiers:
